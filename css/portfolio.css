@@ -1,0 +1,151 @@
+@import url(http://fonts.googleapis.com/css?family=Syncopate:700);
+@import url(http://fonts.googleapis.com/css?family=Maven+Pro:400,500);
+
+body {
+	
+	font-family: 'Maven Pro', sans-serif;
+	background-color: black;
+	background-image:url("../img/blue.gif");
+	background-repeat:repeat;
+}
+
+#container {
+	margin: 2em auto;
+	max-width: 90%;
+	margin-top:0;
+}
+
+header {
+	background-color: #003366;
+	color: white;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	padding-left: 1px;
+	border: solid white;
+	border-radius: 1%;
+	font-family: 'Syncopate', sans-serif;
+}
+
+h1 {
+	color: white;
+	padding-left: 25px;
+	padding-top: 5px;
+	position: relative;
+	top:-8px;
+	font-size: 28px;
+}
+
+h2 {
+	padding-bottom: .5em;
+	border-bottom: 2px solid white;
+}
+
+
+img {
+	border: solid white;
+	border-radius: 1%;
+}
+
+img.sharktagging {
+	position:relative;
+	left:50px;
+	bottom: 240px;
+	border-radius: 1%;
+}
+
+
+article h4 {
+	border-bottom: 1px solid white;
+	padding-bottom: 1em;
+	margin-bottom: 1em;
+}
+
+#content img {
+	float:left;
+}
+
+#content article {
+	padding-bottom: 2em;
+	margin-bottom: 2em;
+	border-bottom: 1px solid white;
+}
+
+#content article p, #content article h3 {
+	margin-left:490px;
+	padding-left: 2em;
+}
+
+#content article.research p, #content article.photography p, #content article.graphic-design p, #content article.contact p {
+	margin-left: 0;
+	padding-left: 0;
+}
+
+#content article:after {
+	clear:both;
+	display: block;
+	content: " ";
+}
+
+article.resumenew, article.research, article.photography, article.graphic-design, article.contact {
+	font-style: italic;
+}
+
+
+nav ul {
+	color: white;
+	list-style-type: none;
+	padding:1em;
+	padding-right: .1em;
+	position: absolute;
+	right:30px;
+	top:15px;
+}
+
+nav ul li {
+	display: inline;
+	position: relative;
+	left:-75px;
+	top:15px;
+}
+
+nav ul li a {
+	text-decoration: none;
+	padding: .25em .25em;
+	color: #fff;
+	background-color: #003366;
+	border: solid white;
+	border-radius: 5%;
+
+}
+
+nav ul li a:hover {
+	text-decoration: none;
+	padding: .5em .5em;
+	color: #fff;
+	background-color: #B8B8B8;
+}
+
+#intro {
+	position: relative;
+	left: 530px;
+	bottom:-100px;
+	padding-left: .5em;
+	padding-right: 35em;
+}
+
+#site-content {
+	position: relative;
+	left: 30px;
+	top: -310px;
+	padding-left: .5em;
+	padding-right: 50em;
+}
+
+
+
+a:hover {
+	color: white;
+}
+
+
+
