@@ -4,6 +4,7 @@ body {
 		color:black;
 		margin:0;
 		font-family: Times;
+		font-size: 12pt;
 	}
 
 #container {
@@ -16,6 +17,7 @@ h1 {
 	color:black;
 	text-align:center;
 	font-family: Times;
+	font-size: 16pt;
 }
 
 nav {
