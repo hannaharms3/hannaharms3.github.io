@@ -1,0 +1,50 @@
+@media print {
+body {	
+		background:transparent;
+		color:black;
+		margin:0;
+		font-family: Times;
+	}
+
+#container {
+	max-width: 100%;
+}	
+
+h1 {
+	padding: 0;
+	margin: 0;
+	color:black;
+	text-align:center;
+	font-family: Times;
+}
+
+nav {
+	display: none;
+}
+
+h2 {
+	text-align: center;
+	margin: 0;
+}
+
+h4 {
+	margin-top: none;
+	padding: none;
+	font-style: bold;
+}
+
+
+p {
+	display: none;
+}
+
+
+br {
+	display: none;
+}
+
+
+
+
+
+
