@@ -40,18 +40,24 @@ h2 {
 	border-bottom: 2px solid white;
 }
 
+#cp_widget_0aad685e-9a89-4151-9dc7-50092ddea070 {
+	padding: 1em 1em;
+	margin: 1em;
+	position: relative;
+	bottom:180spx;
+	left:100px;
+}	
+
+iframe {
+	float:left !important;
+}
+
 
 img {
 	border: solid white;
 	border-radius: 1%;
 }
 
-img.sharktagging {
-	position:relative;
-	left:50px;
-	bottom: 240px;
-	border-radius: 1%;
-}
 
 
 article h4 {
@@ -126,11 +132,13 @@ nav ul li a:hover {
 }
 
 #intro {
-	position: relative;
-	left: 530px;
-	bottom:-100px;
-	padding-left: .5em;
-	padding-right: 35em;
+	position: absolute;
+	left: 570px;
+	padding-right: 5em;
+}
+
+#intro p {
+	margin-top:0;
 }
 
 #site-content {
