@@ -40,16 +40,13 @@ h2 {
 	border-bottom: 2px solid white;
 }
 
-#cp_widget_0aad685e-9a89-4151-9dc7-50092ddea070 {
-	padding: 1em 1em;
-	margin: 1em;
-	position: relative;
-	bottom:180spx;
-	left:100px;
-}	
+
 
 iframe {
 	float:left !important;
+	position: relative;
+	bottom:-60px;
+	left:10px;
 }
 
 
@@ -134,7 +131,9 @@ nav ul li a:hover {
 #intro {
 	position: absolute;
 	left: 570px;
+	bottom:170px;
 	padding-right: 5em;
+	padding-left: 1em;
 }
 
 #intro p {
