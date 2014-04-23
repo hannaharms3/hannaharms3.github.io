@@ -131,7 +131,7 @@ nav ul li a:hover {
 #intro {
 	position: absolute;
 	left: 570px;
-	bottom:170px;
+	top:170px;
 	padding-right: 5em;
 	padding-left: 1em;
 }
