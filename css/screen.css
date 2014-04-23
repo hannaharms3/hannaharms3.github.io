@@ -11,6 +11,9 @@ img {
 	max-width: 100%;
 }
 
+nav {
+	display:none;
+}
 
 
 }
