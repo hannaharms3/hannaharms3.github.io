@@ -154,6 +154,13 @@ a:hover {
 	color: white;
 }
 
+@media screen and (max-width:320px) {
+.container {
+	float: none;
+	width: auto;
+}
+
+}
 
 }
 
