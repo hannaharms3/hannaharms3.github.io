@@ -9,8 +9,8 @@ body {
 
 header {
 	width: 100%;
-	padding: none;
-	margin: none;
+	padding: 1px;
+	margin:1px;
 }
 
 h1 {
