@@ -58,6 +58,10 @@ iframe {
 	display:none;
 }
 
+#content article p, #content article h3 {
+	margin-left:0;
+	padding-left: 1em;
+}
 
 
 }
