@@ -39,11 +39,9 @@ nav {
 	position: static;
 }
 
-nav ul {
-
-}
 
 nav ul li {
+	display: block;
 
 }
 
