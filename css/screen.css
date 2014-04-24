@@ -36,6 +36,7 @@ img {
 
 #content img {
 	float:none;
+	padding-right: 1em;
 }
 
 nav {
