@@ -13,12 +13,13 @@ body {
 }
 
 header {
-	width: 300px;
+	width: 290px;
 	padding: 0;
 }
 
 h1 {
 	font-size: 20px;
+	padding: 0;
 }
 
 #intro {
@@ -43,8 +44,8 @@ nav {
 
 nav ul li {
 	display: block;
-	padding-top: .5em;
-	padding-bottom: .5em;
+	padding-top: .75em;
+	padding-bottom: .75em;
 
 }
 
