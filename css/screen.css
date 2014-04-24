@@ -17,6 +17,10 @@ h1 {
 	font-size: 20px;
 }
 
+#intro {
+	text-align: left;
+}
+
 img {
 	position: static;
 	max-width: 100%;
