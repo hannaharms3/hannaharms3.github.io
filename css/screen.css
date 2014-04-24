@@ -7,6 +7,15 @@ body {
 	float:none;
 }
 
+header {
+	width: 100%;
+	padding: 1em auto;
+}
+
+h1 {
+	font-size: 20px;
+}
+
 img {
 	position: static;
 	max-width: 100%;
