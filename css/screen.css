@@ -17,6 +17,8 @@ body {
 header {
 	width: 290px;
 	padding-right: .25em;
+	padding-top: .25em;
+	padding-bottom:.25em;
 }
 
 h1 {
